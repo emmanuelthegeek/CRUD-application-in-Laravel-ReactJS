@@ -6,3 +6,5 @@ This is a simple CRUD application built with Laravel and React.js with vite.js
 3. Run composer install
 4. Run the following commands 
     "npm install"
+    "npm run dev"
+    "npm build"
