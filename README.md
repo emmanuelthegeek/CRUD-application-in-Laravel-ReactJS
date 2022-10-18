@@ -3,3 +3,6 @@ This is a simple CRUD application built with Laravel and React.js with vite.js
 
 1. Fork this repository.
 2. Clone the repository.
+3. Run composer install
+4. Run the following commands 
+    "npm install"
