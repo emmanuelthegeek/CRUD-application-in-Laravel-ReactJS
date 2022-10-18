@@ -12,3 +12,4 @@ This is a simple CRUD application built with Laravel and React.js with vite.js
 5. Create a MySQL database named "CRUD"
 6. Run the command "php artisan migrate"
 7. Run the seeder command "php artisan db:seed"
+8. Generate application key "php artisan key:generate"
