@@ -10,3 +10,4 @@ This is a simple CRUD application built with Laravel and React.js with vite.js
     "npm build"
 
 5. Create a MySQL database named "CRUD"
+6. Run the command "php artisan migrate"
