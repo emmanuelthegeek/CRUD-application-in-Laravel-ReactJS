@@ -8,3 +8,5 @@ This is a simple CRUD application built with Laravel and React.js with vite.js
     "npm install"
     "npm run dev"
     "npm build"
+
+5. Create a MySQL database named "CRUD"
