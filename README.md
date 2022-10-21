@@ -14,4 +14,4 @@ This is a simple CRUD application built with Laravel and React.js with vite.js
 7. Run the seeder command "php artisan db:seed"
 8. Generate application key "php artisan key:generate"
 9. Run "php artisan serve"
-10. Thank you.
+10.
